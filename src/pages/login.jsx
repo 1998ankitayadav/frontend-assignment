@@ -15,10 +15,11 @@ export default function Login() {
 
   return (
      <div className="login-container">
+      
       <div className="login-header">
       <h1>Signin to your<br/>
          PopX account</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <p>Lorem ipsum dolor sit amet, <br/>consectetur adipiscing elit.</p>
     </div>
       <div className="login-form">
         <InputField label="Email Address" type="email" placeholder="Enter email address" readOnly />
