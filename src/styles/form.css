@@ -1,0 +1,37 @@
+label {
+  font-size: 14px;
+  margin-bottom: 4px;
+  display: block;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background-color: #6b21a8; /* purple */
+  color: white;
+}
+
+.btn-secondary {
+  background-color: #d8b4fe; /* light purple */
+  color: black;
+}
+
+.btn-gray {
+  background-color: #9ca3af; /* gray */
+  color: white;
+}
